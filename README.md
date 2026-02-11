@@ -48,7 +48,7 @@ Dabei wurden elektrische Verbindungen überprüft sowie die Funktion des Motortr
 
 ### CAD-Übersicht
 
-![CAD Modell](docs/cad_gesamtmodell.png)
+![CAD Modell](docs/cad-gesamtmodell.png)
 
 ### Realer Aufbau
 
