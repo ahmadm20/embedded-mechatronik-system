@@ -52,11 +52,11 @@ Dabei wurden elektrische Verbindungen überprüft sowie die Funktion des Motortr
 
 ### Realer Aufbau
 
-![System Aufbau](docs/realer_aufbau.jpg)
+![System Aufbau](docs/realer_aufbau.png)
 
 ### Elektronik-Detail
 
-![Elektronik Detail](docs/elektronik_detail.jpg)
+![Elektronik Detail](docs/elektronik_detail.png)
 
 ## Funktionstest (Video)
 
